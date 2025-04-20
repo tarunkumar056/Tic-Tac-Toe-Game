@@ -1,2 +1,3 @@
-# Tic-Tac-Toe-Game
-This is a classic Tic Tac Toe  game developed using HTML, CSS, and JavaScript. The game is designed for two players who take turns marking spaces in a 3×3 grid with X and O. The main goal is to get three of your marks in a row — horizontally, vertically, or diagonally — before your opponent does.
+# Personal Code Editor
+💻 Personal Code Editor – Write, Run & Create in Style
+A sleek, responsive code editor built from scratch using HTML, CSS, and JavaScript. It supports live preview of HTML, CSS, and JS code, making it perfect for quick testing and creative experiments.
